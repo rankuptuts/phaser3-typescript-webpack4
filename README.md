@@ -45,8 +45,6 @@ npm start
 - [Phaser 3 Docs with TypeScript Definition File](https://github.com/photonstorm/phaser3-docs)
 - [Phaser 3 Online Docs](https://photonstorm.github.io/phaser3-docs/index.html)
 
-## TypeScript Configuration
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/rankuptuts/phaser3-typescript-webpack4/blob/master/LICENSE.md) file for details.
